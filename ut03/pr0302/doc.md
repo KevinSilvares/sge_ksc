@@ -50,7 +50,7 @@ En Clave API pegamos la clave que generamos anteriormente en la página de APIs 
 
 Ahora podemos ir a nuestro módulo de **Inventario** > **Productos** y hacer click en cualquiera de ellos. En el menú del producto hacemos click en **Acción** > **Obtener Imágenes de Google Imágenes** > **Obtener Imágenes**. (Realmente se puede hacer con todos los productos, pero el motor de búsqueda tiene un límite de 100 búsquedas en su versión gratuita, así que yo lo hago uno a uno). 
 
-Repetimos esto con el número de productos que nostros queramos.
+Repetimos esto con el número de productos que nosotros queramos.
 
 ![Productos con Imagen](image-6.png)
 
