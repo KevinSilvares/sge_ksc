@@ -1,9 +1,8 @@
 # PR0401: Ejercicios básicos en Python
 
 
-```python
 ### 1.- Lectura de un número válido
-```
+
 
 
 ```python
@@ -20,9 +19,9 @@ while(not n.isdigit()):
 
 
 
-```python
+
 ### 2.-Tabla de multiplicar
-```
+
 
 
 ```python
@@ -55,9 +54,9 @@ for num in range(k + 1):
 
 
 
-```python
+
 ### 3.- Triángulo de asteriscos
-```
+
 
 
 ```python
@@ -79,9 +78,9 @@ for num in range(1, (n + 1)):
 
 
 
-```python
+
 ### 4- Pirámide de asteriscos
-```
+
 
 
 ```python
@@ -106,9 +105,9 @@ for num in range(1, n + 1, 2):
 
 
 
-```python
+
 ### 5.- Número mayor y menor
-```
+
 
 
 ```python
@@ -145,9 +144,9 @@ print("El numero menor es: " + str(numMenor))
 
 
 
-```python
+
 ### 6.- Conversión de unidades
-```
+
 
 
 ```python
@@ -201,9 +200,9 @@ print(resultado)
 
 
 
-```python
+
 ### 7.- Acierta el número
-```
+
 
 
 ```python
@@ -264,9 +263,9 @@ print("Adivinaste el numero. Era " + str(numAdivinar))
 
 
 
-```python
+
 ### 8.- Piedra, papel o tijeras
-```
+
 
 
 ```python
@@ -441,9 +440,9 @@ while(not ganador):
 
 
 
-```python
+
 ### 9.- Secuencia de Fibonacci
-```
+
 
 
 ```python
