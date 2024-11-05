@@ -2,7 +2,4 @@
 
 1. [Práctica 0401 : Ejercicios Básicos](pr0401/doc.md)
 2. [Práctica 0402 : Ejercicios de Cadenas](pr0402/doc.md) 
-
-
-
-##pruebas
+3. [Práctica 0403: Ejercicios con Listas](pr0403/doc.md)
