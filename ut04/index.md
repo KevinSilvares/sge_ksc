@@ -4,3 +4,4 @@
 2. [Práctica 0402 : Ejercicios de Cadenas](pr0402/doc.md) 
 3. [Práctica 0403 : Ejercicios con Listas](pr0403/doc.md)
 4. [Práctica 0404 : Ejercicios con Diccionarios](pr0404/doc.md)
+5. [Práctica 0405 : Ejercicios de programación funcional](pr0405/doc.md)
