@@ -4,7 +4,8 @@
 
 Contiene los campos que se han de completar para registrar una reserva de una sala en el módulo (Nombre de la sala, Capacidad de la sala, Fecha de reserva, si está reservada o no, Comentarios).
 
-```# -*- coding: utf-8 -*-
+```python
+# -*- coding: utf-8 -*-
 
 from odoo import models, fields, api
 
@@ -29,7 +30,7 @@ class gestion_reserva_salas(models.Model):
 
 Esencialmente se ha dado acceso al archivo `security/ir.model.access.csv` en `data`.
 
-```
+```python
 # -*- coding: utf-8 -*-
 {
     'name': "gestion_reserva_salas",
@@ -71,7 +72,7 @@ Esencialmente se ha dado acceso al archivo `security/ir.model.access.csv` en `da
 
 Contiene la parte visual del módulo (campos, menús y submenús).
 
-```
+```xml
 <odoo>
   <data>
     <!-- explicit list view definition -->
