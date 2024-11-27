@@ -124,10 +124,15 @@ Contiene la parte visual del módulo (campos, menús y submenús).
     <!-- menu categories -->
 
     <menuitem name="Salas" id="gestion_reserva_salas.menu_1" parent="gestion_reserva_salas.menu_root"/>
+    <menuitem name="Reservas" id="gestion_reserva_salas.menu_2" parent="gestion_reserva_salas.menu_root"/>
+
 
     <!-- actions -->
 
-    <menuitem name="Reservas Realizadas" id="gestion_reserva_salas.menu_1_list" parent="gestion_reserva_salas.menu_1"
+    <menuitem name="Salas Disponibles" id="gestion_reserva_salas.menu_1_list" parent="gestion_reserva_salas.menu_1"
+              action="gestion_reserva_salas.action_window"/>
+
+    <menuitem name="Reservas Realizadas" id="gestion_reserva_salas.menu_2_list" parent="gestion_reserva_salas.menu_2"
               action="gestion_reserva_salas.action_window"/>
 
   </data>
@@ -136,17 +141,16 @@ Contiene la parte visual del módulo (campos, menús y submenús).
 
 ## Funcionamiento
 
-![Módulo vacío con los menús y submenús a la vista.](image-1.png)
+![Módulo vacío con los menús y submenús a la vista.](image-6.png)
 Módulo vacío con los menús y submenús a la vista.
 
-
-![Apartado para reservar la sala.](image-2.png)
+![Apartado para reservar la sala.](image-7.png)
 Apartado para reservar la sala.
 
 
-![Calendarios desplegado para fijar una fecha para la reunión.](image-3.png)
+![Calendario desplegado para fijar una fecha para la reunión.](image-8.png)
 Calendario desplegado para fijar una fecha para la reunión.
 
 
-![Módulo con la sala registrada como se ve en las capturas anteriores.](image-4.png)
+![Módulo con la sala registrada como se ve en las capturas anteriores.](image-9.png)
 Módulo con la sala registrada como se ve en las capturas anteriores.
