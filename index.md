@@ -6,4 +6,5 @@
 3. [Unidad 4 - El lenguaje de programación Python](./ut04/index.md)
 4. [Unidad 5 - Desarrollo de componentes](./ut05/index.md)
 5. [Unidad 6 - Desarrollo de componentes: MVC y herencia](./ut06/index.md)
+6. [Unidad 7 - Web Controllers y cliente Web](./ut07/index.md)
 6. [Proyecto Primera Evaluación - Lista de tareas](./proyecto_lista_tareas/doc.md)
