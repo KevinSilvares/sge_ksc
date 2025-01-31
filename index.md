@@ -7,4 +7,5 @@
 4. [Unidad 5 - Desarrollo de componentes](./ut05/index.md)
 5. [Unidad 6 - Desarrollo de componentes: MVC y herencia](./ut06/index.md)
 6. [Unidad 7 - Web Controllers y cliente Web](./ut07/index.md)
-6. [Proyecto Primera Evaluación - Lista de tareas](./proyecto_lista_tareas/doc.md)
+7. [Proyecto Primera Evaluación - Lista de tareas](./proyecto_lista_tareas/doc.md)
+8. [Proyecto Segunda Evaluación - Extensión del modelo de suscripciones mediante métricas y estadísticas](./proyecto_suscripciones/doc.md)
